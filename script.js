@@ -21,7 +21,6 @@
 // F → "Needs Improvement"
 
 
-// ---------------- ACTUAL CODE STARTS HERE ----------------
 
 let marks = 77;
 let bonusMarks = 3;
